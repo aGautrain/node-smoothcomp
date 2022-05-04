@@ -1,0 +1,23 @@
+{
+  "name": "node-smoothcomp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aGautrain/node-smoothcomp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aGautrain/node-smoothcomp/issues"
+  },
+  "homepage": "https://github.com/aGautrain/node-smoothcomp#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.4"
+  }
+}
